@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch m",
+            "request": "launch",
+            "mainClass": "m",
+            "projectName": "HackerEarthEasy_fd417231"
+        },
+        {
+            "type": "java",
             "name": "Launch l",
             "request": "launch",
             "mainClass": "l",
